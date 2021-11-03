@@ -44,10 +44,8 @@ $ expo start
 
 ## Features
 
-- Users can join a chat screen entering their name and choosing background color before joining the chat
-- Conversation page displays and input field and a submit button
-- Users can send images and location data through chat
-- Chat data gets stored online and offline
+- Scrollable list of products
+- Clickable buttons with console message
 
 ## Technologies
 
