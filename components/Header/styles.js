@@ -1,5 +1,7 @@
 import { StyleSheet } from 'react-native';
 
+// Style logo and menu hamburguer images
+
 const styles = StyleSheet.create({
 	container: {
 		position: 'absolute',

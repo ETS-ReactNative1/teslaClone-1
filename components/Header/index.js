@@ -2,9 +2,11 @@ import React from 'react';
 import { View, Image } from 'react-native';
 import styles from './styles';
 
+// Create Header component for app
 const Header = () => {
 	return (
 		<View style={styles.container}>
+			{/* Insert logo and hamburguer menu images */}
 			<Image
 				style={styles.logo}
 				source={require('../../assets/images/logo.png')}

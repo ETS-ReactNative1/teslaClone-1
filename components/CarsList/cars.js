@@ -1,3 +1,4 @@
+// This is the mock data used with name, tagline, tagline CTA and images
 export default [
 	{
 		name: 'Model S',
