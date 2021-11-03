@@ -4,7 +4,7 @@ teslaClone App is an application for mobile devices,built with React Native and 
 
 Users can scroll through a list of products available and buttons are clickable.
 
-![teslaClone Emulator Setup](teslaClone/assets/teslaClone.gif)
+![teslaClone Emulator Setup](assets/images/teslaClone.gif)
 
 ## Start the App
 
